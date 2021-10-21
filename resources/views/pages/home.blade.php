@@ -246,7 +246,7 @@
                     </div>
                     <div class="ts-service-box-info">
                         <h3 class="service-box-title"><a href="#">SHIPPING</a></h3>
-                        <p>Berpengalaman sejak tahun 2011, memiliki jangkauan pengirim dari berbagai kota serta provinsi</p>
+                        <p>Berpengalaman sejak tahun 2009, memiliki jangkauan pengirim dari berbagai kota serta provinsi</p>
                     </div>
                 </div><!-- Service 1 end -->
 
@@ -256,7 +256,7 @@
                     </div>
                     <div class="ts-service-box-info">
                         <h3 class="service-box-title"><a href="#">SHIPYARD</a></h3>
-                        <p>Kita memiliki galangan kapal yang cukup luas yang memiliki pengalaman lebih dari 10 tahun.</p>
+                        <p>Kita memiliki galangan kapal yang cukup luas yang memiliki pengalaman lebih dari 8 tahun.</p>
                     </div>
                 </div><!-- Service 2 end -->
 
