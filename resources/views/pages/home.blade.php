@@ -246,7 +246,7 @@
                     </div>
                     <div class="ts-service-box-info">
                         <h3 class="service-box-title"><a href="#">SHIPPING</a></h3>
-                        <p>Berpengalaman sejaka tahun 2011, memiliki jangkauan pengirim dari berbagai kota serta provinsi</p>
+                        <p>Berpengalaman sejak tahun 2011, memiliki jangkauan pengirim dari berbagai kota serta provinsi</p>
                     </div>
                 </div><!-- Service 1 end -->
 
