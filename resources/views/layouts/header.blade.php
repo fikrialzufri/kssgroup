@@ -57,16 +57,16 @@
 
                         <div id="navbar-collapse" class="collapse navbar-collapse">
                             <ul class="nav navbar-nav mr-auto">
-                                <li class="nav-item active"><a class="nav-link" href="#">Home</a></li>
+                                <li class="nav-item active"><a class="nav-link" href="{{route('home')}}">Home</a></li>
 
                                 <li class="nav-item dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">About <i class="fa fa-angle-down"></i></a>
                                     <ul class="dropdown-menu" role="menu">
-                                        <li><a href="#">KSS Group</a></li>
+                                        <li><a href="{{route('about')}}">KSS Group</a></li>
                                         <li><a href="#">PT. Karya Samudra Sejati</a></li>
-                                        <li><a href="#">MSG</a></li>
-                                        <li><a href="#">SMI</a></li>
-                                        <li><a href="#">SBI</a></li>
+                                        <li><a href="#">PT. Mangkupalas Sukses Gemilang</a></li>
+                                        <li><a href="#">PT. Samudera MangI</a></li>
+                                        <li><a href="#">CV. Sakti Bermuda Indonesia</a></li>
                                     </ul>
                                 </li>
 
