@@ -15,4 +15,12 @@ class HomeController extends Controller
     {
         return view('pages.about');
     }
+    public function strukturkss()
+    {
+        return view('pages.strukturkss');
+    }
+    public function kss()
+    {
+        return view('pages.kss');
+    }
 }

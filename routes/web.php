@@ -23,3 +23,11 @@ Route::get(
     '/about',
     [HomeController::class, 'about']
 )->name('about');
+Route::get(
+    '/strukturkss',
+    [HomeController::class, 'strukturkss']
+)->name('strukturkss');
+Route::get(
+    '/kss',
+    [HomeController::class, 'kss']
+)->name('kss');
