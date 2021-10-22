@@ -101,7 +101,7 @@
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#SHIPPING-accordion">
                                         <div class="card-body">
                                             Merupakan suatu perusahaan pelayaran nasional yang bergerak di bidang angkutan laut, perusahaan ini merupakan bisnis utama dalam KSS group yang melayani jasa angkutan laut maupun sungai di wilayah indonesia sejak tahun 2011.
-                                            <a href="#">Selengkapnya ... </a>
+                                            <a href="{{route('kss')}}">Selengkapnya ... </a>
                                         </div>
                                     </div>
                                 </div>
@@ -115,8 +115,8 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#SHIPPING-accordion">
                                         <div class="card-body">
-                                            Merupakan perusahaan yang bergerak dalam Shipyard atau dapat disebut pelabuhan dimana badan ini befungsi sebagai lokasi pusat KSS Group ini sendiri
-                                            <a href="#">Selengkapnya ... </a>
+                                            Merupakan perusahaan yang bergerak dalam Shipyard atau dapat disebut pelabuhan dimana badan ini befungsi sebagai lokasi pusat KSS Group.
+                                            <a href="{{route('msg')}}">Selengkapnya ... </a>
                                         </div>
                                     </div>
                                 </div>
@@ -124,14 +124,14 @@
                                     <div class="card-header p-0 bg-transparent" id="headingThree">
                                         <h2 class="mb-0">
                                             <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                PT. Samudera Mangkupalas Indonesia (MSG)
+                                                PT. Samudera Mangkupalas Indonesia (SMI)
                                             </button>
                                         </h2>
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#SHIPPING-accordion">
                                         <div class="card-body">
                                             Perusahaan ini lahir atas pengalaman KSS dan MSG yang menjadikan owner mengembangkan kembali ide bisnis dalam bidang kontraktor dan supplier, perusahaan ini dibuat dengan mencakup segala bidang dari pengadaan skala kecil hingga skala besar termasuk dalam bidang ilmu Teknologi (IT).
-                                            <a href="#">Selengkapnya ... </a>
+                                            <a href="{{route('smi')}}">Selengkapnya ... </a>
                                         </div>
                                     </div>
                                 </div>
@@ -146,7 +146,7 @@
                                     <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#SHIPPING-accordion">
                                         <div class="card-body">
                                             Perusahaan ini lahir atas pengalaman KSS dan MSG yang menjadikan owner mengembangkan kembali ide bisnis dalam bidang kontraktor dan supplier, perusahaan ini dibuat dengan mencakup segala bidang dari pengadaan skala kecil hingga skala besar termasuk dalam bidang ilmu Teknologi (IT).
-                                            <a href="#">Selengkapnya ... </a>
+                                            <a href="{{route('sbi')}}">Selengkapnya ... </a>
                                         </div>
                                     </div>
                                 </div>
