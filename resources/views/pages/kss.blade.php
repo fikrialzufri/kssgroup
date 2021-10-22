@@ -52,7 +52,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <p>
-                                PT. Karya Samudra Sejati Adalah merupakan suatu perusahaan pelayaran nasional yang bergerak di bidang angkutan laut, perusahaan ini merupakan bisnis utama dalam KSS group yang melayani jasa angkutan laut maupun sungai di wilayah indonesia sejak tahun 2011, perusahaan yang berawal dari nama Karya Samudera Sukses yang kemudian berganti menjadi Karya Samudra Sejati didirikan pada tahun 2009 sesuai dengan akta yang di buat oleh notaris Ratih Wulandari, SH No. 30 Tanggal 15 Oktober 2009 yang berkedudukan di balikpapan provinsi Kalimantan Timur. Karya samudra Sejati semenjak berdiri hingga saat ini mengalami perubahan - perubahan Direksi dalam perusahaan seiring perkembangan perusahaan guna memenuhi kebutuhan konsumen yang memakai jasa angkutan pelayaran dan menghadapi persaingan yang semakin meningkat. Pelayaran Nasional pada tahun 2010-2011 ditandai dengan azas cabotage. penerapan azas cabotage meningkatkan kebutuhan kapal berbendera indonesi di tahun tersebut, hal ini selain meningkatkan peluang usaha sekaligus juga menambah daya tarik sektor indutri ini sehingga memperketatpersainagn antar penyedia jasa.
+                                PT. Karya Samudra Sejati adalah merupakan suatu perusahaan pelayaran nasional yang bergerak di bidang angkutan laut, perusahaan ini merupakan bisnis utama dalam KSS group yang melayani jasa angkutan laut maupun sungai di wilayah indonesia sejak tahun 2011, perusahaan yang berawal dari nama Karya Samudera Sukses yang kemudian berganti menjadi Karya Samudra Sejati didirikan pada tahun 2009 sesuai dengan akta yang di buat oleh notaris Ratih Wulandari, SH No. 30 Tanggal 15 Oktober 2009 yang berkedudukan di balikpapan provinsi Kalimantan Timur. Karya samudra Sejati semenjak berdiri hingga saat ini mengalami perubahan - perubahan Direksi dalam perusahaan seiring perkembangan perusahaan guna memenuhi kebutuhan konsumen yang memakai jasa angkutan pelayaran dan menghadapi persaingan yang semakin meningkat. Pelayaran Nasional pada tahun 2010-2011 ditandai dengan azas cabotage. penerapan azas cabotage meningkatkan kebutuhan kapal berbendera indonesi di tahun tersebut, hal ini selain meningkatkan peluang usaha sekaligus juga menambah daya tarik sektor indutri ini sehingga memperketatpersainagn antar penyedia jasa.
 
                             </p>
                             <img src="{{asset('images/pages/pt-kss-1.jpg')}}" class="img-fluid pt-4" alt="PT KSS 1" />
@@ -109,7 +109,7 @@
                         <div class="row align-items-center">
                             <div class="col-md-8 text-center text-md-left">
                                 <div class="call-to-action-text">
-                                    <h3 class="action-title">Interested with KSS Gro up.</h3>
+                                    <h3 class="action-title">INTERESTED WITH KSS GROUP.</h3>
                                 </div>
                             </div><!-- Col end -->
                             <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">

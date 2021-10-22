@@ -23,4 +23,16 @@ class HomeController extends Controller
     {
         return view('pages.kss');
     }
+    public function msg()
+    {
+        return view('pages.msg');
+    }
+    public function smi()
+    {
+        return view('pages.smi');
+    }
+    public function sbi()
+    {
+        return view('pages.sbi');
+    }
 }

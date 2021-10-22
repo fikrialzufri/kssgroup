@@ -31,3 +31,15 @@ Route::get(
     '/kss',
     [HomeController::class, 'kss']
 )->name('kss');
+Route::get(
+    '/msg',
+    [HomeController::class, 'msg']
+)->name('msg');
+Route::get(
+    '/smi',
+    [HomeController::class, 'smi']
+)->name('smi');
+Route::get(
+    '/sbi',
+    [HomeController::class, 'sbi']
+)->name('sbi');

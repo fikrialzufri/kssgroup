@@ -64,9 +64,9 @@
                                     <ul class="dropdown-menu" role="menu">
                                         <li><a href="{{route('about')}}">KSS Group</a></li>
                                         <li><a href="{{route('kss')}}">PT. Karya Samudra Sejati</a></li>
-                                        <li><a href="#">PT. Mangkupalas Sukses Gemilang</a></li>
-                                        <li><a href="#">PT. Samudera Mangkupala Indonesi</a></li>
-                                        <li><a href="#">CV. Sakti Bermuda Indonesia</a></li>
+                                        <li><a href="{{route('msg')}}">PT. Mangkupalas Sukses Gemilang</a></li>
+                                        <li><a href="{{route('smi')}}">PT. Samudera Mangkupala Indonesi</a></li>
+                                        <li><a href="{{route('sbi')}}">CV. Sakti Bermuda Indonesia</a></li>
                                     </ul>
                                 </li>
 
