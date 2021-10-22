@@ -43,3 +43,7 @@ Route::get(
     '/sbi',
     [HomeController::class, 'sbi']
 )->name('sbi');
+Route::get(
+    '/contact',
+    [HomeController::class, 'contact']
+)->name('contact');

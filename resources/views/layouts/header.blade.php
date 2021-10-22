@@ -72,7 +72,9 @@
 
                                 <li class="nav-item"><a class="nav-link" href="#">Project</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#">Service</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                                <li class="nav-item {{ Request::segment(1) === 'contact' ? 'active' : '' }}">
+                                    <a class="nav-link" href="{{route('contact')}}">Contact</a>
+                                </li>
                             </ul>
                         </div>
                     </nav>

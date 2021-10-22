@@ -35,4 +35,8 @@ class HomeController extends Controller
     {
         return view('pages.sbi');
     }
+    public function contact()
+    {
+        return view('pages.contact');
+    }
 }

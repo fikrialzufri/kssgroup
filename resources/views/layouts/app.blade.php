@@ -70,7 +70,7 @@
 
 
         <!-- Google Map API Key-->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU" defer></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBC8WG_Bq-38HbT2w7PWylYUz6ZkZP0Lc4" defer></script>
         <!-- Google Map Plugin-->
         <script src="{{asset('plugins/google-map/map.js')}}" defer></script>
 
