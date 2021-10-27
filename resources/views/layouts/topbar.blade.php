@@ -13,17 +13,14 @@
             <div class="col-lg-4 col-md-4 top-social text-center text-md-right">
                 <ul class="list-unstyled">
                     <li>
-                        <a title="Facebook" href="https://facebbok.com/kssgroup.id">
+                        <a title="Facebook" href="https://facebbok.com/kss_msg">
                             <span class="social-icon"><i class="fab fa-facebook-f"></i></span>
                         </a>
-                        <a title="Twitter" href="https://twitter.com/kssgroup.id">
+                        <a title="Twitter" href="https://twitter.com/kss_msg">
                             <span class="social-icon"><i class="fab fa-twitter"></i></span>
                         </a>
-                        <a title="Instagram" href="https://instagram.com/kssgroup.id">
+                        <a title="Instagram" href="https://instagram.com/kss_msg">
                             <span class="social-icon"><i class="fab fa-instagram"></i></span>
-                        </a>
-                        <a title="Linkdin" href="https://github.com/kssgroup.id">
-                            <span class="social-icon"><i class="fab fa-github"></i></span>
                         </a>
                     </li>
                 </ul>

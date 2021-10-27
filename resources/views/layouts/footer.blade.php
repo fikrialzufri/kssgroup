@@ -45,7 +45,7 @@
                      <div class="copyright-info text-center text-md-left">
                          <span>Copyright &copy; <script>
                                  document.write(new Date().getFullYear())
-                             </script>, Designed &amp; Developed by <a href="https://kssgroup.id">KSS Group</a></span>
+                             </script>, Designed &amp; Developed by <a href="http://kssgroup.id">KSS Group</a></span>
                      </div>
                  </div>
 
