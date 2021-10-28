@@ -26,25 +26,7 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-xl-3 col-lg-4">
-                <div class="sidebar sidebar-left">
-                    <div class="widget">
-                        <h3 class="widget-title">PT. Karya Samudra Sejati</h3>
-                        <ul class="nav service-menu">
-                            <li class="active"><a href="{{route('kss')}}">Profile</a></li>
-                            <li><a href="{{route('strukturkss')}}">Struktur</a></li>
-                        </ul>
-                    </div><!-- Widget end -->
-
-                    <div class="widget">
-
-
-                    </div><!-- Widget end -->
-
-                </div><!-- Sidebar end -->
-            </div><!-- Sidebar Col end -->
-
-            <div class="col-xl-8 col-lg-8">
+            <div class="col-xl-12 col-lg-12">
                 <div class="content-inner-page">
 
                     <h2 class="column-title mrt-0">Profile PT. Karya Samudra Sejati</h2>
@@ -55,13 +37,13 @@
                                 PT. Karya Samudra Sejati adalah merupakan suatu perusahaan pelayaran nasional yang bergerak di bidang angkutan laut, perusahaan ini merupakan bisnis utama dalam KSS group yang melayani jasa angkutan laut maupun sungai di wilayah indonesia sejak tahun 2011, perusahaan yang berawal dari nama Karya Samudera Sukses yang kemudian berganti menjadi Karya Samudra Sejati didirikan pada tahun 2009 sesuai dengan akta yang di buat oleh notaris Ratih Wulandari, SH No. 30 Tanggal 15 Oktober 2009 yang berkedudukan di balikpapan provinsi Kalimantan Timur. Karya samudra Sejati semenjak berdiri hingga saat ini mengalami perubahan - perubahan Direksi dalam perusahaan seiring perkembangan perusahaan guna memenuhi kebutuhan konsumen yang memakai jasa angkutan pelayaran dan menghadapi persaingan yang semakin meningkat. Pelayaran Nasional pada tahun 2010-2011 ditandai dengan azas cabotage. penerapan azas cabotage meningkatkan kebutuhan kapal berbendera indonesi di tahun tersebut, hal ini selain meningkatkan peluang usaha sekaligus juga menambah daya tarik sektor indutri ini sehingga memperketatpersainagn antar penyedia jasa.
 
                             </p>
-                            <img src="{{asset('images/pages/pt-kss-1.jpg')}}" class="img-fluid pt-4" alt="PT KSS 1" />
+                            <img src="{{asset('images/pages/pt-kss-1.jpg')}}" class="img-fluid" width="100%"  alt="PT KSS 1" />
                             <br>
                             <p>
                                 Terbentuknya KSS Group adalah suatu ide yang lahir karena pengalaman pelayanan jasa kami selama ini terhadap industri bisnis pembangunan, selain memiliki armada sendiri, KSS juga memiliki Pelabuhan / Galangan kapal atas kempemilikan sendiri yang di atur manajemennya dengan perusahaan yang berbeda namun dengan pimpinan yang sama atau Tunggal. Armada yang kami miliki saat ini berjumlah 4 (empat) set dengan berbeda kapasitas, yaitu 230ft (3 Unit) dan 270ft (1 Unit) keseluruhan beroperasi untuk wilayah indonesia terutama daerah Sulawesi dan Kalimantan, kami juga berpengalaman pada wilayah Sumatera, Jawa hingga Papua.
                                 Jenis penggunaan nya baik untuk Freight Charter atau Time Charter tentunya segala proyek yang kami jalankan dengan segala perhitungan tepat baik bagi perusahaan dan klien, kami mengutamakan keamanan dan keselamatan armada beserta crew di dalamnya.
                             </p>
-                            <img src="{{asset('images/pages/pt-kss-2.jpg')}}" class="img-fluid pt-4" alt="PT KSS 1" />
+                            <img src="{{asset('images/pages/pt-kss-2.jpg')}}" class="img-fluid pt-4" width="100%" alt="PT KSS 1" />
 
                         </div><!-- col end -->
                         <div class="col-md-12">

@@ -26,25 +26,7 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-xl-3 col-lg-4">
-                <div class="sidebar sidebar-left">
-                    <div class="widget">
-                        <h3 class="widget-title">PT. Samudera Mangkupala Indonesi</h3>
-                        <ul class="nav service-menu">
-                            <li class="active"><a href="{{route('smi')}}">Profile</a></li>
-                            <li><a href="{{route('smi')}}">Struktur</a></li>
-                        </ul>
-                    </div><!-- Widget end -->
-
-                    <div class="widget">
-
-
-                    </div><!-- Widget end -->
-
-                </div><!-- Sidebar end -->
-            </div><!-- Sidebar Col end -->
-
-            <div class="col-xl-8 col-lg-8">
+            <div class="col-xl-12 col-lg-12">
                 <div class="content-inner-page">
 
                     <h2 class="column-title mrt-0">Profile PT. Samudera Mangkupala Indonesi</h2>
@@ -70,7 +52,7 @@
 
                     <div class="call-to-action classic">
                         <div class="row align-items-center">
-                            <div class="col-md-8 text-center text-md-left">
+                            <div class="col-md-12 text-center text-md-left">
                                 <div class="call-to-action-text">
                                     <h3 class="action-title">INTERESTED WITH KSS GROUP.</h3>
                                 </div>

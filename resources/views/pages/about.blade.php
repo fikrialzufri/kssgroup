@@ -25,26 +25,7 @@
 <section id="main-container" class="main-container">
     <div class="container">
         <div class="row">
-
-            <div class="col-xl-3 col-lg-4">
-                <div class="sidebar sidebar-left">
-                    <div class="widget">
-                        <h3 class="widget-title">KSS Group</h3>
-                        <ul class="nav service-menu">
-                            <li class="active"><a href="{{route('about')}}">Profile</a></li>
-                            <li><a href="{{route('strukturkss')}}">Struktur</a></li>
-                        </ul>
-                    </div><!-- Widget end -->
-
-                    <div class="widget">
-
-
-                    </div><!-- Widget end -->
-
-                </div><!-- Sidebar end -->
-            </div><!-- Sidebar Col end -->
-
-            <div class="col-xl-8 col-lg-8">
+            <div class="col-xl-12 col-lg-12">
                 <div class="content-inner-page">
 
                     <h2 class="column-title mrt-0">Profile KSS Group</h2>
@@ -67,7 +48,7 @@
                             <p>
                                 Nilai - nilai perusahaan filosofi yang mendasari prilaku bagi seluruh jajaran perusahaan dalam berintekasi, mitra usaha hingga pemegang saham, dalam kemitraan perusahaan akan memberikan layanan untuk meningkatkan pengalaman yang kaya bagi relasi, kami mementingkan pengalaman ini melalui integritas pekerjaan kami dengan rasa hormat dan tanggung jawab.
                             </p>
-                            <img src="{{asset('images/pages/kss-1.jpg')}}" class="img-fluid" alt="kss group 1" />
+                            <img src="{{asset('images/pages/kss-1.jpg')}}" class="img-fluid" width="100%" alt="kss group 1" />
                             <p>
                                 Kami mengoperasikan kapal dengan aman yang diatur dengan crew hingga perwira yang profesional dengan standar peraturan pelayaran Nasional, peraturan klasifikasi, standar asosiasi industri kemaritiman dan peraturan pemerintah serta hukum yang berlaku.sebagai perseroan yang memiliki hubungan dengan berbagai pihak didalam maupun luar negeri dengan penerapan prisip Good Corporate Goverance (GCG) merupakan suatu keharusan.
                             </p>

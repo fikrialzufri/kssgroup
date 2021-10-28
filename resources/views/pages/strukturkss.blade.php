@@ -27,36 +27,41 @@
     <div class="container">
         <div class="row">
 
-            <div class="col-xl-3 col-lg-4">
-                <div class="sidebar sidebar-left">
-                    <div class="widget">
-                        <h3 class="widget-title">KSS Group</h3>
-                        <ul class="nav service-menu">
-                            <li><a href="{{route('about')}}">Profile</a></li>
-                            <li class="active"><a href="{{route('strukturkss')}}">Struktur</a></li>
-                        </ul>
-                    </div><!-- Widget end -->
+           
 
-                    <div class="widget">
-
-
-                    </div><!-- Widget end -->
-
-                </div><!-- Sidebar end -->
-            </div><!-- Sidebar Col end -->
-
-            <div class="col-xl-8 col-lg-8">
+            <div class="col-xl-12 col-lg-12">
 
                 <div class="row justify-content-center">
-                    <div class="col-lg-3 col-sm-6 mb-5">
+                    <div class="col-lg-2 col-sm-5 mb-5">
+                        <div class="ts-team-wrapper">
+                            <div class="team-img-wrapper">
+                                <img loading="lazy" src="images/team/team2.jpg" class="img-fluid" alt="team-img">
+                            </div>
+                            <div class="ts-team-content-classic">
+                                <h3 class="ts-name">Riska Amelia</h3>
+                                <p class="ts-designation">Direktur Utama</p>
+                                <div class="team-social-icons">
+                                    <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
+                                </div>
+                                <!--/ social-icons-->
+                            </div>
+                        </div>
+                        <!--/ Team wrapper 1 end -->
+
+                    </div><!-- Col end -->
+                </div><!-- Content row 1 end -->
+
+                <div class="row justify-content-center">
+                    <div class="col-lg-2 col-sm-5 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
                                 <img loading="lazy" src="images/team/team1.jpg" class="img-fluid" alt="team-img">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Nats Stenman</h3>
-                                <p class="ts-designation">Chief Operating Officer</p>
-                                <p class="ts-description">Nats Stenman began his career in SHIPPING with boots on the ground</p>
+                                <h3 class="ts-name">Sigit Dwinata</h3>
+                                <p class="ts-designation">Direktur Galangan</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
@@ -69,16 +74,14 @@
 
                     </div><!-- Col end -->
 
-                    <div class="col-lg-3 col-sm-6 mb-5">
+                    <div class="col-lg-2 col-sm-5 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
                                 <img loading="lazy" src="images/team/team2.jpg" class="img-fluid" alt="team-img">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">ANGELA LYOUER</h3>
-                                <p class="ts-designation">Innovation Officer</p>
-                                <p class="ts-description">Nats Stenman began his career in SHIPPING with boots on the ground</p>
-                                <div class="team-social-icons">
+                                <h3 class="ts-name">Novida Safitri</h3>
+                                <p class="ts-designation">General Manager</p>
                                     <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
                                     <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
                                     <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
@@ -91,16 +94,15 @@
 
                 </div><!-- Content row 1 end -->
 
-                <div class="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+                <div class="row justify-content-center">
+                    <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
                                 <img loading="lazy" src="images/team/team3.jpg" class="img-fluid" alt="team-img">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Mark Conter</h3>
-                                <p class="ts-designation">Safety Officer</p>
-                                <p class="ts-description">Nats Stenman began his career in SHIPPING with boots on the ground</p>
+                                <h3 class="ts-name">Diantara Indra Putra</h3>
+                                <p class="ts-designation">Operasional Galangan</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
@@ -113,15 +115,14 @@
                         <!--/ Team wrapper 3 end -->
                     </div><!-- Col end -->
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+                    <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
-                                <img loading="lazy" src="images/team/team4.jpg" class="img-fluid" alt="team-img">
+                                <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">AYESHA STEWART</h3>
-                                <p class="ts-designation">Finance Officer</p>
-                                <p class="ts-description">Nats Stenman began his career in SHIPPING with boots on the ground</p>
+                                <h3 class="ts-name">Robby Yansyah</h3>
+                                <p class="ts-designation">Operasional Galangan</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
@@ -134,15 +135,14 @@
 
                     </div><!-- Col end -->
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+                    <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
                                 <img loading="lazy" src="images/team/team5.jpg" class="img-fluid" alt="team-img">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Dave Clarkte</h3>
-                                <p class="ts-designation">Civil Engineer</p>
-                                <p class="ts-description">Nats Stenman began his career in SHIPPING with boots on the ground</p>
+                                <h3 class="ts-name">Reza Fahlevi</h3>
+                                <p class="ts-designation">Kepala Operasional</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
                                     <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
@@ -154,15 +154,14 @@
                         <!--/ Team wrapper 5 end -->
                     </div><!-- Col end -->
 
-                    <div class="col-lg-3 col-md-4 col-sm-6 mb-5">
+                    <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
                         <div class="ts-team-wrapper">
                             <div class="team-img-wrapper">
                                 <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Elton Joe</h3>
-                                <p class="ts-designation">Site Supervisor</p>
-                                <p class="ts-description">Nats Stenman began his career in SHIPPING with boots on the ground</p>
+                                <h3 class="ts-name">Osha</h3>
+                                <p class="ts-designation">Staf Operasional</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
@@ -173,6 +172,26 @@
                             </div>
                         </div>
                         <!--/ Team wrapper 6 end -->
+                    </div><!-- Col end -->
+
+                    <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
+                        <div class="ts-team-wrapper">
+                            <div class="team-img-wrapper">
+                                <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
+                            </div>
+                            <div class="ts-team-content-classic">
+                                <h3 class="ts-name">Didit</h3>
+                                <p class="ts-designation">Operasional Galangan</p>
+                                <div class="team-social-icons">
+                                    <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
+                                </div>
+                                <!--/ social-icons-->
+                            </div>
+                        </div>
+                        <!--/ Team wrapper 4 end -->
+
                     </div><!-- Col end -->
                 </div><!-- Content row end -->
 

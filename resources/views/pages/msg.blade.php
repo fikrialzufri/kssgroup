@@ -25,26 +25,7 @@
 <section id="main-container" class="main-container">
     <div class="container">
         <div class="row">
-
-            <div class="col-xl-3 col-lg-4">
-                <div class="sidebar sidebar-left">
-                    <div class="widget">
-                        <h3 class="widget-title">PT. Mangkupalas Sukses Gemilang</h3>
-                        <ul class="nav service-menu">
-                            <li class="active"><a href="{{route('kss')}}">Profile</a></li>
-                            <li><a href="{{route('strukturkss')}}">Struktur</a></li>
-                        </ul>
-                    </div><!-- Widget end -->
-
-                    <div class="widget">
-
-
-                    </div><!-- Widget end -->
-
-                </div><!-- Sidebar end -->
-            </div><!-- Sidebar Col end -->
-
-            <div class="col-xl-8 col-lg-8">
+            <div class="col-xl-12 col-lg-12">
                 <div class="content-inner-page">
 
                     <h2 class="column-title mrt-0">Profile PT. Mangkupalas Sukses Gemilang</h2>
