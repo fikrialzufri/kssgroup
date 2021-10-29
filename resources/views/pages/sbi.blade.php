@@ -33,7 +33,11 @@
 
                     <div class="row">
                        <div class="col-12">
-                            <h3>Comming Soon</h3>
+                            <p>
+                                CV. SAKTI BERMUDA INDONESIA itu anak perusahaan dari PT. SMI, yang begerak dibidang proyek kontraktor dan supplier berdiri pada tahun 2021 serta bidang ilmu Teknologi (IT) pemerintahan ataupun swasta skala kecil (mikro), CV. SAKTI BERMUDA INDONESIA mendedikasikan dirinya untuk melayani yang terbaik dan beroperasi secara ketat dengan standar yang dapat mengintegrasikan semua kebutuhan yang diperlukan oleh pengguna jasa SBI serta SBI yang mempunyai komitmen tinggi dalam memberikan pelayanan terbaik kepada setiap pelanggannya.</p>
+                            <p>
+                                CV. SAKTI BERMUDA INDONESIA melayani segala bentuk order pembuatan konstruksi bangunan sipil, jalan,  dranase, jasa angkut antar kota , pengadaan barang , pengadaan atau penyediaan batu koral, serta perbaikan, perawatan, restorasi segala bentuk bangunan.
+                            </p>
                         </div>
                     </div><!-- 1st row end-->
 
