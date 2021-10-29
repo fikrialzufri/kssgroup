@@ -32,13 +32,9 @@
                     <h2 class="column-title mrt-0">Profile CV. Sakti Bermuda Indonesia</h2>
 
                     <div class="row">
-                        <div class="col-md-12">
-                            <p>
-                                CV. Sakti Bermuda Indonesia adalah merupakan perusahaan yang bergerak .
-
-                            </p>
-
-                        </div><!-- col end -->
+                       <div class="col-12">
+                            <h3>Comming Soon</h3>
+                        </div>
                     </div><!-- 1st row end-->
 
                     <div class="gap-40"></div>
