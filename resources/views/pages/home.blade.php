@@ -216,8 +216,8 @@
                         <img loading="lazy" src="images/icon-image/fact4.png" alt="facts-img">
                     </div>
                     <div class="ts-facts-content">
-                        <h2 class="ts-facts-num"><span class="counterUp" data-count="800">0</span></h2>
-                        <h3 class="ts-facts-title"> Experience</h3>
+                        <h2 class="ts-facts-num"><span class="counterUp" data-count="13">0</span></h2>
+                        <h3 class="ts-facts-title"> Experience (year)</h3>
                     </div>
                 </div><!-- Col end -->
 
