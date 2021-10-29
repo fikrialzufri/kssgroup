@@ -27,14 +27,14 @@
                                     </div>
                                 </div>
                             </li>
-                            <li class="last">
+                            <!-- <li class="last">
                                 <div class="info-box last">
                                     <div class="info-box-content">
                                         <p class="info-box-title">Global Certificate</p>
                                         <p class="info-box-subtitle">ISO 9001:2017</p>
                                     </div>
                                 </div>
-                            </li>
+                            </li> -->
                             <li class="header-get-a-quote">
                                 <a class="btn btn-primary" href="contact.html">Get A Quote</a>
                             </li>

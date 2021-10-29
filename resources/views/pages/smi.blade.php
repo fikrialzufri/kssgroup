@@ -52,7 +52,7 @@
 
                     <div class="call-to-action classic">
                         <div class="row align-items-center">
-                            <div class="col-md-12 text-center text-md-left">
+                            <div class="col-md-8 text-center text-md-left">
                                 <div class="call-to-action-text">
                                     <h3 class="action-title">INTERESTED WITH KSS GROUP.</h3>
                                 </div>

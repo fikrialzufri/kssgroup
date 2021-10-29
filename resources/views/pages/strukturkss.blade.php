@@ -160,7 +160,7 @@
                                 <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Osha</h3>
+                                <h3 class="ts-name">Osha Henricus</h3>
                                 <p class="ts-designation">Staf Operasional</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -180,7 +180,7 @@
                                 <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
                             </div>
                             <div class="ts-team-content-classic">
-                                <h3 class="ts-name">Didit</h3>
+                                <h3 class="ts-name">Didit Mauliadi</h3>
                                 <p class="ts-designation">Operasional Galangan</p>
                                 <div class="team-social-icons">
                                     <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -193,9 +193,72 @@
                         <!--/ Team wrapper 4 end -->
 
                     </div><!-- Col end -->
+                    
                 </div><!-- Content row end -->
-
+                
             </div><!-- Content Col end -->
+            <div class="row justify-content-center">
+                <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
+                    <div class="ts-team-wrapper">
+                        <div class="team-img-wrapper">
+                            <img loading="lazy" src="images/team/team3.jpg" class="img-fluid" alt="team-img">
+                        </div>
+                        <div class="ts-team-content-classic">
+                            <h3 class="ts-name">Imam Tohari</h3>
+                            <p class="ts-designation">Programmer</p>
+                            <div class="team-social-icons">
+                                <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
+                                <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
+                                <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
+                            </div>
+                            <!--/ social-icons-->
+                        </div>
+                    </div>
+                    <!--/ Team wrapper 3 end -->
+                </div><!-- Col end -->
+
+                <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
+                    <div class="ts-team-wrapper">
+                        <div class="team-img-wrapper">
+                            <img loading="lazy" src="images/team/team6.jpg" class="img-fluid" alt="team-img">
+                        </div>
+                        <div class="ts-team-content-classic">
+                            <h3 class="ts-name">Andry Fahrozy</h3>
+                            <p class="ts-designation">Operasional Kantor</p>
+                            <div class="team-social-icons">
+                                <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
+                                <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
+                            </div>
+                            <!--/ social-icons-->
+                        </div>
+                    </div>
+                    <!--/ Team wrapper 4 end -->
+
+                </div><!-- Col end -->
+
+                <div class="col-lg-2 col-md-4 col-sm-6 mb-5">
+                    <div class="ts-team-wrapper">
+                        <div class="team-img-wrapper">
+                            <img loading="lazy" src="images/team/team5.jpg" class="img-fluid" alt="team-img">
+                        </div>
+                        <div class="ts-team-content-classic">
+                            <h3 class="ts-name">Ferry Ramadhan</h3>
+                            <p class="ts-designation">Office Boy</p>
+                            <div class="team-social-icons">
+                                <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
+                                <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
+                                <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
+                            </div>
+                            <!--/ social-icons-->
+                        </div>
+                    </div>
+                    <!--/ Team wrapper 5 end -->
+                </div><!-- Col end -->
+
+                
+            </div><!-- Content row end -->
 
 
         </div><!-- Main row end -->
